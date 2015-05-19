@@ -1,0 +1,27 @@
+{
+  "name": "exreg-routes",
+  "version": "0.1.0",
+  "description": "Display Express' registered routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --reporter spec --ui tdd --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belsrc/exreg-routes.git"
+  },
+  "keywords": [
+    "express",
+    "routes",
+    "express routes"
+  ],
+  "author": "Bryan Kizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belsrc/exreg-routes/issues"
+  },
+  "homepage": "https://github.com/belsrc/exreg-routes#readme",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  }
+}
