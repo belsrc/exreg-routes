@@ -15,7 +15,7 @@ npm install --save exreg-routes
 To install the latest development version:
 
 ```bash
-npm install git+https://github.com/belsrc/exreg-routes.git#develop
+npm install --save git+https://github.com/belsrc/exreg-routes.git#develop
 ```
 
 
