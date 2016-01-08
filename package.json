@@ -1,6 +1,6 @@
 {
   "name": "exreg-routes",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Display Express' registered routes",
   "main": "index.js",
   "scripts": {
